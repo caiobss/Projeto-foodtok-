@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "Macarrão Alho e Óleo Perfeito",
+        "imagem": "assets/1754273983-aprenda-como-fazer-macarrao-alho-e-oleo-com-bacon-fonte-cooks-illustrated.webp",
+        "tempo": "15 min",
+        "ingredientes": ["200g de espaguete", "4 dentes de alho laminados", "50ml de azeite de oliva", "Sal e salsa a gosto"],
+        "preparo": "Cozinhe o macarrão em água salgada. Enquanto isso, doure o alho no azeite em fogo baixo até dourar levemente. Escorra a massa e misture diretamente no azeite de alho. Finalize com salsa fresca."
+    },
+    {
+        "id": 2,
+        "titulo": "Mousse de Chocolate 2 Ingredientes",
+        "imagem":"assets/decadent-chocolate-mousse-with-mint-garnish-cocoadusted-surface_84176-50565.webp",
+        "tempo": "10 min",
+        "ingredientes": ["200g de chocolate meio amargo", "1 caixa de creme de leite (200g)"],
+        "preparo": "Derreta o chocolate no micro-ondas de 30 em 30 segundos. Adicione o creme de leite em temperatura ambiente e misture bem até ficar homogêneo. Leve à geladeira por 2 horas antes de servir."
+    },
+    {
+        "id": 3,
+        "titulo": "Omelete de Cafeteria Francês",
+        "imagem": "assets/recheie-com-queijo-cogumelos-carnes-ou-o-que-quiser-o-importante-e-adaptar-a-receita-ao-seu-gosto-banco-de-imagens-nd-1300x731.webp",
+        "tempo": "5 min",
+        "ingredientes": ["3 ovos inteiros", "1 colher de sopa de manteiga", "Sal e pimenta-do-reino"],
+        "preparo": "Bata os ovos vigorosamente com um garfo. Derreta a manteiga na frigideira em fogo médio sem deixar escurecer. Despeje os ovos e mexa a frigideira constantemente para criar uma textura cremosa. Enrole e sirva."
+    }
+]
