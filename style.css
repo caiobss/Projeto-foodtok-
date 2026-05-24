@@ -2,23 +2,27 @@
     margin: 0 auto;
     box-sizing: border-box;
 }
-/* Configuração do container para travar a rolagem por seções (Estilo TikTok) */
+
 
 .logo{
+    background-color: rgb(16, 24, 40);
     position: fixed;
     top: 0;
     left: 0;
+    width: 9rem;
+        z-index: 100000;
+
+}
+
+.logo .logo_content{
+    display: flex;
+    align-items: center;
     color: rgb(70, 131, 221);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: 900;
     height: 2rem;
     width: 2rem;
     margin: .5rem;
-}
-
-.logo .logo_content{
-    display: flex;
-    align-items: center;
 }
 
 .logo_content h1{
@@ -36,24 +40,31 @@
     height: 100svh;
 }
 
-/* Garante que cada card de receita ocupe exatamente o tamanho da tela do celular */
+
 .recipe-card {
     scroll-snap-align: start;
-    height: 90svh;
+    height: 100svh;
 }
 
-/* Ocultar a barra de rolagem padrão para deixar o visual mais limpo */
+
 .feed-container::-webkit-scrollbar {
     display: none;
 }
 .feed-container {
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none;  
+    scrollbar-width: none;  
 }
 .imagem {
     width: 100%;
     height: 100%;
     padding: 0rem 0rem 1rem 0rem ;
     object-fit: cover;
-    z-index: 100; /* Garante que a imagem fique atrás do conteúdo textual */
+    z-index: 100; 
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-around;
+    height: 20%;
+    position: absolute;
 }

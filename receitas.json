@@ -22,5 +22,31 @@
         "tempo": "5 min",
         "ingredientes": ["3 ovos inteiros", "1 colher de sopa de manteiga", "Sal e pimenta-do-reino"],
         "preparo": "Bata os ovos vigorosamente com um garfo. Derreta a manteiga na frigideira em fogo médio sem deixar escurecer. Despeje os ovos e mexa a frigideira constantemente para criar uma textura cremosa. Enrole e sirva."
+    },
+{
+        "id": 4,
+        "titulo": "Molho Pomodoro Italiano Clássico",
+        "tempo": "40 min",
+        "imagem": "assets/Receita-Molho-Pomodoro-1024x1024.webp",
+        "ingredientes": ["1 lata de tomate pelado italiano", "2 colheres de sopa de azeite extra virgem", "1/2 cebola roxa picada finamente", "2 dentes de alho amassados", "Folhas de manjericão fresco e sal"],
+        "preparo": "Em uma panela, aqueça o azeite e faça o suor da cebola e do alho até ficarem translúcidos. Adicione os tomates pelados e amasse-os com a colher. Deixe cozinhar em fogo brando por 30 minutos para apurar os sabores e reduzir a acidez naturalmente. Finalize com o manjericão rasgado."
+    },
+    {
+        "id": 5,
+        "titulo": "Rondelles de Abobrinha Grelhados",
+        "tempo": "20 min",
+        "imagem": "assets/grilled-vegetables-appetizer-top-view-on-round-plate.webp",
+        "ingredientes": ["2 abobrinhas médias", "2 colheres de sopa de azeite", "1 colher de chá de ervas finas secas", "Sal e pimenta-do-reino moída"],
+        "preparo": "Corte as abobrinhas em fatias longitudinais médias (comprimento). Pincele ambos os lados com azeite e tempere com as ervas, sal e pimenta. Aqueça uma chapa ou frigideira de ferro fundido em fogo alto e grelhe as fatias por 2 minutos de cada lado para criar as marcas de tostado características."
+    },
+    {
+        "id": 6,
+        "titulo": "Creme Brûlée Descomplicado",
+        "tempo": "50 min",
+        "imagem": "assets/creme-brulee-simples-08-730x548.webp",
+        "ingredientes": ["500ml de creme de leite fresco", "1 colher de chá de essência de baunilha", "6 gemas de ovo", "100g de açúcar refinado"],
+        "preparo": "Aqueça o creme de leite com a baunilha sem deixar ferver. Em uma tigela, branqueie as gemas batendo-as com o açúcar. Despeje o creme quente aos poucos sobre as gemas mexendo sem parar (temperagem). Distribua em potinhos e asse em banho-maria a 160°C por 35 minutos. Resfrie e queime açúcar por cima com maçarico antes de servir."
     }
+
+    
 ]
